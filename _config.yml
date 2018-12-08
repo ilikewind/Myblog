@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: wangwei0206@mail.nwpu.edu.cn
 description: "关于机器学习, 深度学习, 医学图像处理 | 王威，master student, 在读硕士 | 这里是 @WangW 的个人博客，与你一起。"
 keyword: "王威, WangW王威, WangW, ilikewind, likewind, 王威的博客, WangW Blog, 博客, 个人网站, ML, Deep Learning, DL, Math"
-url: "https://ilikewind.top"              # your host, for absolute URL
+url: "https://likewind.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     心态又爆炸了
-#zhihu_username:     像风一样
+weibo_username:     WangWPro
+zhihu_username:     xiang-feng-yiyang-666
 github_username:    ilikewind
-#twitter_username:   huxpro
+twitter_username:   likewind # 爱情纪念日
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
