@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Markdown 语法手册（标准版）"
+title: "Markdown语法手册（标准版）"
 subtitle: ''
 author: "WangW"
 header-style: text
-tags: 
-	-Markdown
+tags: Markdown
 ---
+-----
+
 ### 0. 目录
 
 [TOC]
