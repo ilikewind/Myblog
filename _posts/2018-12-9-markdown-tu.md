@@ -105,7 +105,7 @@ Markdown 支持两种形式的链接语法：行内式和参考式两种形式�
 [跳转到3](# 3. 超链接)
 ```
 
-[跳转到3](3. 超链接)
+[跳转到3](# 3. 超链接)
 
 ------
 
@@ -229,7 +229,9 @@ ssnsnsnnsns```
 
 ### 8. 内容目录
 
-本人用的 Typora 中自带的目录生成器。
+一般标准的内容目录为`[TOC]`。
+
+**然而，在github上README.md上的目录生成，使用以上的办法是不行的。我一般是使用一个下面的插件**插件连接：[github-markdown-toc.go](https://github.com/ekalinin/github-markdown-toc.go/releases "markdown-toc")
 
 -----
 
