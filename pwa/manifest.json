@@ -7,8 +7,8 @@
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/512.png",
-    "sizes": "512x512",
+    "src": "icons/945.png",
+    "sizes": "945x945",
     "type": "image/png"
   }],
   "background_color": "#fff",
