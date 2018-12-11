@@ -68,7 +68,7 @@ netease_comment: false
 gitalk:
 enable: true
 owner: ilikewind
-repo: ilikewind.github.io
+repo: Myblog
 clientID: 2793192964754da25afa
 clientSecret: 41e173c60ffd564a9cba3cd31a16c1668570630d
 admin: iliwind
