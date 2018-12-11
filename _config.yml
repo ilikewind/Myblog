@@ -64,7 +64,14 @@ disqus_username: false
 # Netease settings
 netease_comment: false
 
-
+#2018-12-11添加gitalk
+gitalk:
+enable: true
+owner: ilikewind
+repo: github.com/ilikewind/Myblog
+clientID: 2793192964754da25afa
+clientSecret: 41e173c60ffd564a9cba3cd31a16c1668570630d
+admin: iliwind
 
 # Analytics settings
 # Baidu Analytics 
