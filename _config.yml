@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: WangW
+disqus_username: false
 
 # Netease settings
 netease_comment: false
