@@ -10,10 +10,6 @@ tags:
 ---
 本文主要参考：《统计学习方法》-- 李航
 
-<script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
 ---
 
 **具体统计方法学习-链接（updating）**
@@ -62,9 +58,9 @@ tags:
 
 假设空间用 $ f $ 表示。假设空间可以定义为决策函数的集合。
 
-<center> $$ F = \lbrace f|Y=f(X) \rbrace {, (1)}$$ </center>
+$$ F = \lbrace f|Y=f(X) \rbrace {, (1)} $$
 
-其中，X 和 Y 是定义在输入空间 $ \chi $ 和输出空间 y 上的变量。
+其中，$X $ 和 $Y $ 是定义在输入空间 $ \chi $ 和输出空间 $ y $ 上的变量。
 
 #### 2.2. 策略
 
@@ -74,7 +70,7 @@ tags:
 
 ##### 2.2.1. 损失函数和风险函数
 
- 监督学习问题是在假设空间 F 中选取模型 f 作为决策函数，对于给定的输入 X , 有 f(X) 给出相应的输出f(X) , 这个输出的预测值与真实值Y可能一致也可能不一致，用一个损失函数（loss function）或者代价函数（cost function）来度量预测错误的程度。损失函数是 $ f(X) $ 和 $ Y $ 的非负实值函数，记作 $ L(Y, f(X)) $ 。
+ 监督学习问题是在假设空间 $ F $ 中选取模型$ f $作为决策函数，对于给定的输入 $ X $  , 有 f(X) 给出相应的输出 $f(X)$ , 这个输出的预测值与真实值Y可能一致也可能不一致，用一个损失函数（loss function）或者代价函数（cost function）来度量预测错误的程度。损失函数是 $ f(X) $ 和 $ Y $ 的非负实值函数，记作 $ L(Y, f(X)) $ 。
 
 统计学习常用的损失函数有以下几种：
 
