@@ -10,6 +10,9 @@ tags:
 ---
 本文主要参考：《统计学习方法》-- 李航
 
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 ---
 
 **具体统计方法学习-链接（updating）**
