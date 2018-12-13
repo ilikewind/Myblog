@@ -9,6 +9,8 @@ tags:
     - ubuntu
 ---
 
+**首发在**[WangW Blog](https://likewind.top) 
+
 ###  引出问题
 
 在处理whole slide images时，出现`Slide/Mask dimension does not match , X_slide / X_mask : 98304 / 1536, Y_slide / Y_mask : 103936 / 2048`的问题。
