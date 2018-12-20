@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "理工类学术论文写作（一）"
+title: "理工类学术论文写作（二）"
 subtitle: "How to make paper"
 author: "WangW"
 header-style: text
