@@ -29,7 +29,7 @@ tags:
 
 ### How: 这篇文章如何解决了这个问题？
 
-![](G:\github\Myblog\img\in-post\2018-12\CNN+MIL框架.png)
+![](https://github.com/ilikewind/Myblog/blob/master/img/in-post/2018-12/CNN%2BMIL%E6%A1%86%E6%9E%B6.png)
 
 #### 基线（our baseline）
 
