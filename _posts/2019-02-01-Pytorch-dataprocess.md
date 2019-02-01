@@ -5,7 +5,7 @@ subtitle: "PyTorch 1: How to use data in pytorch"
 author: "WangW"
 header-style: text
 tags: 
-	- PyTorch
+    - PyTorch
 ---
 
 **文章首发于：**[WangW Blog](https://likewind.top)，转载请注明出处。
