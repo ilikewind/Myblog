@@ -11,16 +11,15 @@ tags:
 **文章首发于：**[WangW Blog](https://likewind.top)，转载请注明出处。
 **Pytorch系列：**
 
-- PyTorch系列 - PyTorch使用总览 (一)
-- PyTorch系列 - PyTorch数据读取 (二)
-- PyTorch系列 - PyTorch网络构建 (三)
-- PyTorch系列 - PyTorch网络配置 (四)
-- PyTorch系列 - PyTorch其它配置 (五)
+- [PyTorch系列 - PyTorch使用总览 (一)](https://likewind.top/2019/01/17/Pytorch-introduction/)
+- [PyTorch系列 - PyTorch数据读取 (二)](https://likewind.top/2019/02/01/Pytorch-dataprocess/)
+- [PyTorch系列 - PyTorch网络构建 (三)](https://likewind.top/2019/02/15/Pytorch-networks/)
+- [PyTorch系列 - PyTorch网络设置 (四)](https://likewind.top/2019/02/19/Pytorch-setting/)
 
 **参考：**
+
 1. [PyTorch documentation](https://pytorch.org/docs/stable/data.html)
 2. [PyTorch 码源](https://github.com/pytorch/)
-
 
 本文首先介绍了有关预处理包的源码，接着介绍了在数据处理中的具体应用；
 其主要目录如下：
@@ -278,6 +277,7 @@ class torch.utils.data.distributed.DistributedSampler(dataset, num_replicas=None
 	- tumor
 		- 1.png
 		
+
 希望能够训练模型，使得能够识别tumor, normal两类，将tumor-->1, normal-->0。
 
 ### 3.2 数据读取
