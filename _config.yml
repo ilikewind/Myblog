@@ -92,7 +92,7 @@ sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 0              # A tag will be featured if the size of it is more than this condition value
 
 
 
@@ -109,8 +109,12 @@ page-mathjax: false
 
 # Friends
 friends: [
-   # {
-       # title: "乱序",
-        #href: "http://mida.re/"
-    #},
+   {
+      title: "乱序",
+      href: "http://mida.re/"
+    },
+    {
+      title: "骨代谢研究室",
+      href: "http://qianslab.com"
+    }
 ]

@@ -11,15 +11,19 @@ description: "你能干什么取决于你想干什么"
         </h2>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
-            {{ post.subtitle }}
+            <!--{{ post.subtitle }}-->
         </h3>
         {% endif %}
         <div class="post-content-preview">
+            <!--
             {% if post.lang == 'en' %}
                 {{ post.content | strip_html | truncate:300 }}
             {% else %}
                 {{ post.content | strip_html | truncate:200 }}
             {% endif %}
+            -->
+            <!--20190221改变文章摘要-->
+            {{ post.content  | split:'<!--break-->' | first | strip_html }} 
         </div>
     </a>
     <p class="post-meta">
