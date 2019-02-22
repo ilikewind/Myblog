@@ -1,10 +1,4 @@
-/* ===========================================================
- * sw-registration.js
- * ===========================================================
- * Copyright 2016 @huxpro
- * Licensed under Apache 2.0
- * Register service worker.
- * ========================================================== */
+
 
 // SW Version Upgrade Ref: <https://youtu.be/Gb9uI67tqV0>
 

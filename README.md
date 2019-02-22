@@ -103,7 +103,7 @@ tags:
 #### SideBar
 
 看右边:
-![](http://huangxuan.me/img/blog-sidebar.jpg)
+![](http://likewind.top/img/blog-sidebar.jpg)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 ```
@@ -161,7 +161,7 @@ friends: [
 
 HTML5幻灯片的排版：
 
-![](http://huangxuan.me/img/blog-keynote.jpg)
+![](http://likewind.top/img/blog-keynote.jpg)
 
 这部分是用于占用html格式的幻灯片的，一般用到的是 Reveal.js, Impress.js, Slides, Prezi 等等.我认为一个现代化的博客怎么能少了放html幻灯的功能呢~
 
@@ -170,7 +170,7 @@ HTML5幻灯片的排版：
 ```
 ---
 layout:     keynote
-iframe:     "http://huangxuan.me/js-module-7day/"
+iframe:     "http://likewind.top/js-module-7day/"
 ---
 ```
 
@@ -208,7 +208,7 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # 你用Google账号去注册一个就会给你一个这样的id
-ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
+ga_domain: likewind.top			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
 ```
 
 #### Customization
@@ -222,7 +222,6 @@ JavaScript 的压缩混淆、Less 的编译、Apache 2.0 许可通告的添加�
 #### Header Image
 
 标题底图是可以自己选的，看看几篇示例post你就知道如何设置了。在
-  [issue #6 ](https://github.com/Huxpro/huxpro.github.io/issues/6) 中我被问到：怎么样才能让标题底图好看呢？
 
 标题底图的选取完全是看个人的审美了，我也帮不了你。每一篇文章可以有不同的底图，你想放什么就放什么，最后宽度要够，大小不要太大，否则加载慢啊。
 

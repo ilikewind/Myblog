@@ -1,14 +1,14 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "WangW-blog",
+    "title": "WangW Blog",
+    "author": "WangW <wangwei0206@foxmail.com>",
     "version": "1.7.0",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "https://likewind.top",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/ilikewind/Myblog"
     },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
+    "bugs": "https://github.com/ilikewind/Myblog/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
