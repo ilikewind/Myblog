@@ -15,6 +15,8 @@ tags:
 
 在处理whole slide images时，出现`Slide/Mask dimension does not match , X_slide / X_mask : 98304 / 1536, Y_slide / Y_mask : 103936 / 2048`的问题。
 
+<!--break-->
+
 ### 问题原因
 
 openslide版本问题，在openslide=\=3.4.1中更新了这个问题，所以要安装`openslide==3.4.1`。**最想吐槽的是，尼玛啊，camelyon比赛官方评价标准代码中用 $2^n$ 倍数关系控制whole slide image多分辨率问题，但是openslide==3.4.1之前的版本不适用这个倍数关系**，这才导致多分辨率下长宽倍数关系不一致，我觉得很LOW！

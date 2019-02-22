@@ -10,6 +10,7 @@ tags:
 
 **本文主要讲了理工类论文如何找、读、理解**
 
+<!--break-->
 
 
 ![](https://upload-images.jianshu.io/upload_images/15391562-9ee4abd6707d452b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

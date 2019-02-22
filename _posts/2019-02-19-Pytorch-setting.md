@@ -12,10 +12,12 @@ tags:
 **文章首发于：**[WangW Blog](https://likewind.top)，转载请注明出处。
 **Pytorch系列：**
 
-- [PyTorch系列 - PyTorch使用总览 (一)](https://likewind.top/2019/01/17/Pytorch-introduction/)
-- [PyTorch系列 - PyTorch数据读取 (二)](https://likewind.top/2019/02/01/Pytorch-dataprocess/)
-- [PyTorch系列 - PyTorch网络构建 (三)](https://likewind.top/2019/02/15/Pytorch-networks/)
-- [PyTorch系列 - PyTorch网络设置 (四)](https://likewind.top/2019/02/19/Pytorch-setting/)
+- [PyTorch系列(一) - PyTorch使用总览](https://likewind.top/2019/01/17/Pytorch-introduction/)
+- [PyTorch系列(二) - PyTorch数据读取](https://likewind.top/2019/02/01/Pytorch-dataprocess/)
+- [PyTorch系列(三) - PyTorch网络构建](https://likewind.top/2019/02/15/Pytorch-networks/)
+- [PyTorch系列(四) - PyTorch网络设置](https://likewind.top/2019/02/19/Pytorch-setting/)
+
+<!--break-->
 
 **参考：**
 

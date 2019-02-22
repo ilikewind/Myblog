@@ -8,6 +8,8 @@ tags:
     - 论文
 ---
 
+<!--break-->
+
 **本文主要讲了理工类论文如何写学术论文**
 
 ![0.png](https://upload-images.jianshu.io/upload_images/15391562-5a4579d0d775c68c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
