@@ -7,14 +7,16 @@
                 {% include sns-links.html center=true %}
 
                 <p class="copyright text-muted">
-                    Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
-                    <br>
-                    Powered by <a href="http://likewind.top">WangW Blog</a> |
+                    Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }} |
                     <iframe
                         style="margin-left: 2px; margin-bottom:-5px;"
                         frameborder="0" scrolling="0" width="100px" height="20px"
                         src="https://ghbtns.com/github-btn.html?user=ilikewind&repo=Myblog&type=star&count=true" >
                     </iframe>
+                    <br>
+                    Powered by <a href="https://likewind.top">WangW Blog</a> |
+                    Analyzed by <a href="https://tongji.baidu.com/web/27362827/overview/index">Baidu Analytics</a>
+
                 </p>
             </div>
         </div>
@@ -243,3 +245,27 @@
     _render();
 </script>
 {% endif %}
+
+<center>
+    <a href="https://likewind.top/about/">申请友情链接 & 关于我</a> | 博客已存留 <SPAN id=span_dt_dt style="color: #0196e3;"></SPAN>
+    <SCRIPT language=javascript>
+    function show_date_time(){
+    window.setTimeout("show_date_time()", 1000);
+    BirthDay=new Date("9/8/2018 00:00:00");//日期自己修改
+    today=new Date();
+    timeold=(today.getTime()-BirthDay.getTime());
+    sectimeold=timeold/1000
+    secondsold=Math.floor(sectimeold);
+    msPerDay=24*60*60*1000
+    e_daysold=timeold/msPerDay
+    daysold=Math.floor(e_daysold);
+    e_hrsold=(e_daysold-daysold)*24;
+    hrsold=Math.floor(e_hrsold);
+    e_minsold=(e_hrsold-hrsold)*60;
+    minsold=Math.floor((e_hrsold-hrsold)*60);
+    seconds=Math.floor((e_minsold-minsold)*60);
+    span_dt_dt.innerHTML=""+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
+    }
+    show_date_time();
+    </SCRIPT>
+</center>
