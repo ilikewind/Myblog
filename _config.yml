@@ -75,7 +75,7 @@ admin: iliwind
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: 4f9e5a8b624f9b335919292b2ac7e2db
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
