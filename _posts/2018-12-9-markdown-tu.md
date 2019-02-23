@@ -2,6 +2,7 @@
 layout: post
 title: "Markdown语法手册（标准版）"
 subtitle: ''
+catalog: true
 author: "WangW"
 header-style: text
 tags: Markdown

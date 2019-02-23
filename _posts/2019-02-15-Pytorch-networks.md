@@ -2,6 +2,7 @@
 layout: post
 title: "PyTorch系列 (三): pytorch网络构建"
 subtitle: "PyTorch 1: How to build networks in pytorch"
+catalog: true
 author: "WangW"
 header-style: text
 tags: 

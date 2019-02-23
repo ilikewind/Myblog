@@ -2,6 +2,7 @@
 layout: post
 title: "PyTorch系列 (二): pytorch数据读取"
 subtitle: "PyTorch 1: How to use data in pytorch"
+catalog: true
 author: "WangW"
 header-style: text
 tags: 

@@ -2,6 +2,7 @@
 layout: post
 title: "PyTorch系列 (一): pytorch使用总览"
 subtitle: "PyTorch 1: How to use pytorch"
+catalog: true
 author: "WangW"
 header-style: text
 tags: 

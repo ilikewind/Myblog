@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Python提取网站数据基本教程
+catalog: true
 subtitle: Using urllib, beautifulsoup4
 author: "WangW"
 header-style: text

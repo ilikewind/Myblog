@@ -2,6 +2,7 @@
 loyout: post
 title: "在ubuntu下opensldie的安装，更新以及卸载问题"
 subtitle: "Install uninstall update openslide in ubuntu"
+catalog: true
 author: "Wangw"
 header-style: text
 tags: 

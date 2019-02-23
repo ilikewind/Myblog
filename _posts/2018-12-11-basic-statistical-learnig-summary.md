@@ -2,6 +2,7 @@
 layout: post
 title: "基本统计方法概论总结"
 subtitle: "Basic statistical learning summary"
+catalog: true
 author: "WangW"
 header-style: text
 tags: 

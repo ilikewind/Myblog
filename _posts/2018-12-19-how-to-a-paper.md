@@ -2,6 +2,7 @@
 layout: post
 title: "理工类学术论文写作（一）"
 subtitle: "How to make paper"
+catalog: true
 author: "WangW"
 header-style: text
 tags:
