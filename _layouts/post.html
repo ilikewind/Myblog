@@ -32,8 +32,8 @@ layout: default
                 </select>
                 {% endif %}
 
-				{{ content }}
-
+				{{ content | toc }}
+                
                 <hr style="visibility: hidden;">
                 <ul class="pager">
                     {% if page.previous.url %}
