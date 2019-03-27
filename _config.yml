@@ -118,5 +118,61 @@ friends: [
     {
       title: "骨代谢研究室",
       href: "http://qianslab.com"
+    },
+    {
+      title: "LAMDA(周志华)",
+      href: "http://lamda.nju.edu.cn/CH.MainPage.ashx?AspxAutoDetectCookieSupport=1"
+    },
+    {
+      title: "微软研究院",
+      href: "https://www.msra.cn/zh-cn/connections"
+    },
+    {
+      title: "微软研究院视觉组",
+      href: "https://www.microsoft.com/en-us/research/group/visual-computing/"
+    },
+    {
+      title: "TSAIL Group(朱军课题组)",
+      href: "https://www.labxing.com/lab/286/members"
+    },
+    {
+      title: "南开大学媒体计算实验室",
+      href: "https://mmcheng.net/zh/"
+    },
+    {
+      title: "卢湖川课题组",
+      href: "http://ice.dlut.edu.cn/lu/index.html"
+    },
+    {
+      title: "伯克利大学机器视觉小组",
+      href: "https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/"
+    },
+    {
+      title: "德雷塞尔大学生物医学计算小组",
+      href: "https://www.cs.drexel.edu/~david/geom_biomed_comp.html#cell_sim"
+    },
+    {
+      title: "MIT 计算机科学与人工智能实验室",
+      href: "https://www.csail.mit.edu"
+    },
+    {
+      title: "MIT 生物与机器学习实验室",
+      href: "http://poggio-lab.mit.edu/"
+    },
+    {
+      title: "MIT 认知科学实验室",
+      href: "http://persci.mit.edu/"
+    },
+    {
+      title: "俄勒冈州立大学医学工程医学图像研究组",
+      href: "https://bme.osu.edu/research/bioimaging"
+    },
+    {
+      title: "中科院机器视觉课题组",
+      href: "http://vision.ia.ac.cn/zh/index_cn.html"
+    }, 
+    {
+      title: "北京大学机器感知实验室",
+      href: "http://www.klmp.pku.edu.cn/Faculty/Researcher.html"
     }
 ]
