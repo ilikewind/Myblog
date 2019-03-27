@@ -9,15 +9,6 @@ tags:
     - PyTorch
 ---
 
-**文章首发于：**[WangW Blog](https://likewind.top)，转载请注明出处。
-**Pytorch系列：**
-
-- [PyTorch系列(一) - PyTorch使用总览](https://likewind.top/2019/01/17/Pytorch-introduction/)
-- [PyTorch系列(二) - PyTorch数据读取](https://likewind.top/2019/02/01/Pytorch-dataprocess/)
-- [PyTorch系列(三) - PyTorch网络构建](https://likewind.top/2019/02/15/Pytorch-networks/)
-- [PyTorch系列(四) - PyTorch网络设置](https://likewind.top/2019/02/19/Pytorch-setting/)
-
-<!--break-->
 
 **参考：**
 
@@ -25,9 +16,8 @@ tags:
 2. [PyTorch 码源](https://github.com/pytorch/)
 
 本文首先介绍了有关预处理包的源码，接着介绍了在数据处理中的具体应用；
-其主要目录如下：
 
-[TOC]
+<!--break-->
 
 # 1 PyTorch数据预处理以及源码分析 (torch.utils.data)
 [torch.utils.data脚本码源](https://github.com/pytorch/pytorch/tree/master/torch/utils/data)

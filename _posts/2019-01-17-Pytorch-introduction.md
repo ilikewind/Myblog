@@ -9,27 +9,15 @@ tags:
     - PyTorch
 ---
 
-**文章首发于：**[WangW Blog](https://likewind.top)，转载请注明出处。
-**PyTorch系列：**
-
-- [PyTorch系列(一) - PyTorch使用总览](https://likewind.top/2019/01/17/Pytorch-introduction/)
-- [PyTorch系列(二) - PyTorch数据读取](https://likewind.top/2019/02/01/Pytorch-dataprocess/)
-- [PyTorch系列(三) - PyTorch网络构建](https://likewind.top/2019/02/15/Pytorch-networks/)
-- [PyTorch系列(四) - PyTorch网络设置](https://likewind.top/2019/02/19/Pytorch-setting/)
-
-
-<!--break-->
-
 **参考：**
 
 1. [PyTorch documentation](https://pytorch.org/docs/stable/data.html)
 2. [PyTorch 码源](https://github.com/pytorch/)
 
-**目录：**
-
-[TOC]
 
 深度学习框架训练模型时的代码主要包含数据读取、网络构建和其它设置三个方面 。基本上掌握这三个方面就可以较为灵活地使用框架训练模型。
+
+<!--break-->
 
 ## 1 数据读取
 [pytorch 数据预处理，包分析以及应用实例](https://likewind.top)

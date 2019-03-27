@@ -1,7 +1,7 @@
 ---
 layout: post
-title: sequential modeling of deep features for breast cancer histopathological image classification 论文阅读
-subtitle: ""
+title: "'sequential modeling of deep features for breast cancer histopathological image classification' notes"
+subtitle: "sequential modeling of deep features for breast cancer histopathological image classification"
 catalog: true
 author: "WangW"
 header-style: text
@@ -74,7 +74,7 @@ Image Classification](http://openaccess.thecvf.com/content_cvpr_2018_workshops/p
 
 ### 3.3 DenseNet 分类框架基线
 
-在训练的神经网络中，采用最后一层完全连通层的特征作为基线。**毕竟低级中级高级特征混合使用的优势，该基线只使用了高级特征**
+在训练的神经网络中，采用最后一层完全连通层的特征作为基线。**比较低级中级高级特征混合使用的优势，该基线只使用了高级特征**
 
 ## 4 What: 这篇文章解决这个问题得到了什么样的结论？
 

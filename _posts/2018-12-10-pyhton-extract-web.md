@@ -10,16 +10,6 @@ tags: 爬虫
 
 -----
 
-### 0. 目录
-
-- [0. 目录](#0-目录)
-- [1. 解析网址例子](#1-解析网址例子)
-- [2. 提取网页数据](#2-提取网页数据)
-- [3. 使用正则表达在网页中提取所想要的内容](#3-使用正则表达在网页中提取所想要的内容)
-- [4. 网页分析与应用](#4-网页分析与应用)
-- [5. 后记](#5-后记)
-
-<!--break-->
 
 ### 1. 解析网址例子
 
@@ -33,6 +23,8 @@ print(uc.netloc)
 # ParseResult(scheme='http', netloc='blog.sina.com.cn', path='/s/blog_4e345ca90102wm9v.html', params='', query='tj=fina', fragment='')
 # blog.sina.com.cn
 ```
+
+<!--break-->
 
 ```python
 from urllib.parse import urlparse
@@ -206,5 +198,3 @@ for link in all_links :
 要学好爬虫，个人认为最重要的是HTLL、css等概念。
 
 ------
-
-**TQ**

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CDW-MIL for Histopathology Image Segmentation论文阅读"
+title: "'CDW-MIL for Histopathology Image Segmentation' notes"
 subtitle: "Constrained Deep Weak Supervision for Histopathology Image Segmentation"
 catalog: true
 author: "WangW"
