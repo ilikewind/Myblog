@@ -3,7 +3,7 @@ title: WangW Blog
 SEOTitle: 王威的博客 | WangW Blog
 header-img: img/home-bg.jpg
 email: wangwei0206@mail.nwpu.edu.cn
-description: "关于机器学习, 深度学习, 医学图像处理 | 王威，master student, 在读硕士 | 这里是 @ilikewind 的个人博客，与你一起。"
+description: "关于机器学习, 深度学习 | 王威，master student, 在读硕士 | 这里是 @ilikewind 的个人博客，与你一起。"
 keyword: "王威, WangW王威, WangW, ilikewind, likewind, 王威的博客, WangW Blog, 博客, 个人网站, ML, Deep Learning, DL, Math"
 url: "https://likewind.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,9 +12,9 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: false
-weibo_username:     1ilewind
-zhihu_username:     xiang-feng-yiyang-666
+RSS: true
+#weibo_username:     1ilewind
+#zhihu_username:     xiang-feng-yiyang-666
 github_username:    ilikewind
 twitter_username:   likewind # 爱情纪念日
 #facebook_username:  1ikewind
@@ -26,7 +26,7 @@ twitter_username:   likewind # 爱情纪念日
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
@@ -38,7 +38,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
-plugins: [jekyll-toc,jekyll-paginate,]# 
+plugins: [jekyll-toc,jekyll-paginate,jekyll-admin, jekyll-seo-tag, jemoji]# 
   # - 
   
 
@@ -66,7 +66,7 @@ disqus_username: false
 # Netease settings
 netease_comment: false
 
-#2018-12-11添加gitalk
+#2018-12-11添加gitalk Do not use my repo!!!!!!
 gitalk:
 enable: true
 owner: ilikewind
@@ -87,7 +87,7 @@ ba_track_id: 4f9e5a8b624f9b335919292b2ac7e2db
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "For man is man and master of his fate<br>享受努力的过程，把握步伐的方向"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
