@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://likewind.top/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://likewind.top/about/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/portfolio/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2019/02/27/sequential-classification/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2019/02/15/Pytorch-networks/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2019/02/01/Pytorch-dataprocess/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2019/01/17/Pytorch-introduction/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2018/12/20/constrained-MIL/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2018/12/19/how-to-a-paper/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2018/12/16/ML-CV-sum/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2018/12/13/openslide-trouble/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2018/12/11/basic-statistical-learnig-summary/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2018/12/10/wsi-pre/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2018/12/10/pyhton-extract-web/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2018/12/09/markdown-tu/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/2018/12/08/vim-cn-im/</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=Markdown</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=PyTorch</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=%E7%88%AC%E8%99%AB</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=%E8%AE%BA%E6%96%87</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=Deep+Learning</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=KFB</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=WSI</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=openslide</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likewind.top/archive/?tag=ubuntu</loc>
+  <lastmod>2019-03-28T17:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
