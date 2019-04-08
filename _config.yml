@@ -174,5 +174,9 @@ friends: [
     {
       title: "北京大学机器感知实验室",
       href: "http://www.klmp.pku.edu.cn/Faculty/Researcher.html"
+    },
+    {
+      title: "红色石头",
+      href: "http://redstonewill.com/"
     }
 ]
