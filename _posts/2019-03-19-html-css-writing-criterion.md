@@ -17,6 +17,8 @@ tags:
 4. 背景(background, border等)
 5. 其他(animation, transition等)
 
+<!--break-->
+
 ![](/img/in-post/2019/html_01.png)
 
 ## CSS书写规范 
