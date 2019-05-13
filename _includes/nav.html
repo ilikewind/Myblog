@@ -19,11 +19,12 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div id="huxblog_navbar">
             <div class="navbar-collapse">
+                {% assign pages = site.pages | sort:"weight"  %}
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="{{ site.baseurl }}/">Home</a>
                     </li>
-                    {% for page in site.pages %}
+                    {% for page in pages %}
                     {% if page.title and page.hide-in-nav != true %}
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
