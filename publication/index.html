@@ -2,8 +2,21 @@
 layout: default
 title: publication
 description:
-header-img: "img/tag-bg.jpg"
+header-img: "img/home-bg-o.jpg"
 ---
 {% include intro-header.html type='page' short=true %}
 
-<h1>test</h1>
+<!-- Main Content -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <!-- Article List -->
+            <div class="mini-post-list js-result d-none">
+        </div>
+    </div>
+</div>
+
+<div class="en post-container">
+    {% capture about_en %}{% include publication/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>
