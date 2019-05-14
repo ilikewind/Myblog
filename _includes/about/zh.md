@@ -13,7 +13,7 @@
 				</div>
 				<div class="col-sm-7">
                     <p><strong>准备攻读计算机视觉博士，希望有老师和同学的推荐；</strong></p>
-                    <p>王威，在西北工业大学生命学院攻读硕士，为生物工程二年级学生。师从<a src="http://qianslab.com">BONE METAVOLISM LAB</a>的<a src="http://teacher.nwpu.edu.cn/2006000141">骞爱荣</a>教授。在这之前，我毕业与河南科技大学机械电子工程专业。我硕士期间按课题为人工智能在病理领域的应用。在课余时间，我比较喜欢钻研web前端开发、打篮球和写<a src="likewind.top">BLOG</a>。</p>
+                    <p>王威，在西北工业大学生命学院攻读硕士，为生物工程二年级学生。师从<a href="http://qianslab.com">BONE METAVOLISM LAB</a>的<a href="http://teacher.nwpu.edu.cn/2006000141">骞爱荣</a>教授。在这之前，我毕业与河南科技大学机械电子工程专业。我硕士期间按课题为人工智能在病理领域的应用。在课余时间，我比较喜欢钻研web前端开发、打篮球和写<a href="likewind.top">BLOG</a>。</p>
                     <!--
                     <p>I have also worked with: </p>
                     <ul>

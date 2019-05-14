@@ -13,7 +13,7 @@
 				</div>
 				<div class="col-sm-7">
                     <p><strong>I am looking forward to pursue a Ph.D. in computer vision.</strong></p>
-                    <p>WangWei，I am a second-year M.S. student at the College of Life Sciences at Northwestren Polytechnical University, advisised by Prof. <a src="http://teacher.nwpu.edu.cn/2006000141">Qianair</a>. Previously, I graduated with a B.S. degree in Mechanical electronics. The research subject of my master degree is the application of artificial intelligence in the field of pathology. In my spare time, I prefer to delve into web front-end development, play basketball and write <a src="likewind.top">Blogs</a>.</p>
+                    <p>WangWei，I am a second-year M.S. student at the College of Life Sciences at Northwestren Polytechnical University, advisised by Prof. <a href="http://teacher.nwpu.edu.cn/2006000141">Qianair</a>. Previously, I graduated with a B.S. degree in Mechanical electronics. The research subject of my master degree is the application of artificial intelligence in the field of pathology. In my spare time, I prefer to delve into web front-end development, play basketball and write <a href="likewind.top">Blogs</a>.</p>
                     <!--
                     <p>I have also worked with: </p>
                     <ul>
