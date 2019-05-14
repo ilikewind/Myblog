@@ -29,7 +29,8 @@
             <p>我对<strong>计算机视觉</strong>和<strong>机器学习</strong>领域十分感兴趣，特别是<strong>半监督学习</strong>、<strong>主动学习</strong>和<strong>医学病理图像处理</strong>。 </p>
             <h3>新闻</h3>
             <ul>
-            <li><p>作为“第二届非编码RNA与肿瘤前沿论坛”核心工作人员，组织了会议的重要环节。</p></li>
+            <li><p>2018年6月，一篇论文被第二军医大学学报录用。</p></li>
+            <li><p>2018年4月，一篇论文被 BMJ Open 录用用。</p></li>
             </ul>
             <h3>联系</h3>
             <strong>Email</strong>: wangwei0206 at mail.nwpu.edu.cn<br>

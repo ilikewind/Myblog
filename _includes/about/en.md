@@ -26,10 +26,11 @@
 				</div>
     		</div>
             <h3>Research Topics</h3>
-            <p>I am interested in <strong>Computer Vision</strong>和<strong>Machine Learning</strong>. Specifically on the topics of <strong>Self-Supervised Learning</strong>、<strong>Semi-Supervised Learning</strong>和<strong>Medical Pathology Image Processing</strong>.</p>
+            <p>I am interested in <strong>Computer Vision</strong>and<strong>Machine Learning</strong>. Specifically on the topics of <strong>Self-Supervised Learning</strong>、<strong>Semi-Supervised Learning</strong>and<strong>Medical Pathology Image Processing</strong>.</p>
             <h3>News</h3>
             <ul>
-            <li><p>As a core staff member of the "Second Session on Non-coding RNA and Tumor Frontiers", an important part of the conference was organized.</p></li>
+            <li><p>One paper is accepted to Academic Journal of Second Military Medical University in 2018.</p></li>
+            <li><p>One paper is accepted to BMJ Open in 2018. </p></li>
             </ul>
             <h3>Contact</h3>
             <strong>Email</strong>: wangwei0206 at mail.nwpu.edu.cn<br>
