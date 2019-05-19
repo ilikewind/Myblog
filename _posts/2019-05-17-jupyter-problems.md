@@ -33,4 +33,13 @@ python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
 
 附录： 你应该能够安装 `nb_conda_kernels` 包装 `conda install nb_conda_kernels` 要自动添加所有环境，请参阅 [https://github.com/Anaconda-Platform/nb_conda_kernels](https://github.com/Anaconda-Platform/nb_conda_kernels)
 
-## 
+## anacoda国内镜像已经挂了
+
+清华，中科大等国内镜像已经不能使用。改用`pyenv-virtualenv`。
+
+```
+python3 -m venv venv
+sourch venv/bin/activate
+
+```
+
