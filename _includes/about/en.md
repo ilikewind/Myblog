@@ -1,4 +1,4 @@
-<html lang="en">
+
 <head>
 	<meta charset="utf-8" />
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans" />
@@ -38,4 +38,3 @@
 ​    	</div>
 ​	</div>
 </body>
-</html>
