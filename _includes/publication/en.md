@@ -17,7 +17,7 @@
 					</div>
 					<div class="col-md-6">
 						<p>Ye Tian#, Li Yang#, <strong>Wei Wang#</strong>, Jing Zhang, Qing Tang, Mili Ji, Yang Yu, Yu Li*, Hong Yang*, Airong Qian*.<br> <i>Computer-aided Detection of Squamous Carcinoma of the Cervix in Whole Slide Images.  </i> <br>arXiv, 2019.  <br> (# indicates equal contributions.) <br>
-						<a href="https://arxiv.org/abs/1905.10959" target="_blank">[arXiv]</a> <a href="https://arxiv.org/abs/1905.10959" target="_blank">[BibTex]</a></p>
+						<a href="https://arxiv.org/abs/1905.10959" target="_blank">[arXiv]</a> <a href="/publication/bibs/tianye2019computer-aided.bib.html" target="_blank">[BibTex]</a></p>
 					</div>
 				</div>
 
