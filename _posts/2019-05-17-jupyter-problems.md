@@ -40,7 +40,8 @@ python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
 
 ```bash
 python3 -m venv venv
-sourch venv/bin/activate
+source venv/bin/activate ##Linux
+activate venv/Scripts/activate  ## windows
 
 ```
 
