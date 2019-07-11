@@ -57,7 +57,7 @@ git config --global user.email "your email"
 - **git checkout -b dev**: 创建``dev``分支，并切换到``dev``分支上
 - **git branch**: 查看当前分支
 - **git checkout master**: 切换到master主枝上
-- **git merge dev*:  将dev上的工作成果合并到master分支上
+- **git merge dev**:  将dev上的工作成果合并到master分支上
 - **git branch -d dev**: 删除dev分支
 - **git log --graph**查看分支合并图
 - **git merge --no-ff**: 不会fast forward，能查看分支

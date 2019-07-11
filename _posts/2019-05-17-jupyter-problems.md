@@ -22,21 +22,21 @@ Anaconda命令大全<!--break-->
 - **rm -rf ~/anaconda3**: 卸载conda
 
 ## 管理环境
-- **conda create --name <env_name> <package_name>**: 创建新环境
-- **source activate <env_name>**: 切换环境
-- **source deactivate <env_name>**: 退出环境
+- **conda create --name \<env_name\> \<package_name\>**: 创建新环境
+- **source activate \<env_name\>**: 切换环境
+- **source deactivate \<env_name\>**: 退出环境
 - **conda env list == conda info --envs**: 显示已创建环境
-- **conda create --name <new_env_name> --clone <copied_env_name>**:复制环境
-- **conda remove --name <env_name> --all**: 删除环境
+- **conda create --name \<new_env_name\> --clone \<copied_env_name\>**:复制环境
+- **conda remove --name \<env_name\> --all**: 删除环境
 
 ## 管理包
-- **conda search --full-name <package_full_name>**:精确查找包
-- **conda search <text>**: 模糊查找
+- **conda search --full-name \<package_full_name\>**:精确查找包
+- **conda search \<text\>**: 模糊查找
 - **conda list**: 获取当前环境中已安装的包信息
-- **conda install --name <env_name> <package_name>**: 在指定环境中安装包
-- **conda install <package_name>**: 在当前环境中安装包
-- **conda remove --name <env_name> <package_name>**: 卸载指定环境中的包
-- **conda remove <package_name>**: 卸载当前环境中的包
+- **conda install --name \<env_name\> \<package_name\>**: 在指定环境中安装包
+- **conda install \<package_name\>**: 在当前环境中安装包
+- **conda remove --name \<env_name\> \<package_name\>**: 卸载指定环境中的包
+- **conda remove \<package_name\>**: 卸载当前环境中的包
 - **conda update --all == upgrade --all**：更新所有包
 
 ---
