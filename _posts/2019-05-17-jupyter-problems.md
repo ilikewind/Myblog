@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用编程软件中记录的一些常用问题"
+title: "anaconda 命令大全"
 subtitle: ""
 catalog: true
 author: "WangW"
@@ -11,73 +11,75 @@ tags:
     - conda
 ---
 
-jupyter notebook 是一个十分常、优秀的软件，本文主要记录了关于该软件的常用方法。
+Anaconda命令大全<!--break-->
 
-<!--break-->
+![目录图](/img/in-post/2019/conda.png)
 
-## Conda 环境没有出现在Jupyter Notebook中
+## 管理conda
+- **conda --version**: 验证conda是否安装成功
+- **conda update conda**: 更新conda到最新版本
+- **conda -h**: 查看conda帮助信息
+- **rm -rf ~/anaconda3**: 卸载conda
 
-#### 问题
+## 管理环境
+- **conda create --name <env_name> <package_name>**: 创建新环境
+- **source activate <env_name>**: 切换环境
+- **source deactivate <env_name>**: 退出环境
+- **conda env list == conda info --envs**: 显示已创建环境
+- **conda create --name <new_env_name> --clone <copied_env_name>**:复制环境
+- **conda remove --name <env_name> --all**: 删除环境
 
-我安装了Anaconda，新建了一个虚拟环境```torch36```并在该环境中安装了`torch`包。 我可以在该环境中成功导入torch。但是在Jupyter Notebook 中无法识别我刚刚创建的新环境。
+## 管理包
+- **conda search --full-name <package_full_name>**:精确查找包
+- **conda search <text>**: 模糊查找
+- **conda list**: 获取当前环境中已安装的包信息
+- **conda install --name <env_name> <package_name>**: 在指定环境中安装包
+- **conda install <package_name>**: 在当前环境中安装包
+- **conda remove --name <env_name> <package_name>**: 卸载指定环境中的包
+- **conda remove <package_name>**: 卸载当前环境中的包
+- **conda update --all == upgrade --all**：更新所有包
 
-#### 解决
+---
 
-con'da 停止自动将环境设置为jupyter内核，需要自己手动为每个环境添加内核：
-
-```python
+## 常见问题解决 （更新中）
+### 添加Conda 环境至Jupyter Notebook中
+``conda``已经停止自动将环境设置为``Jupyter``内核,需要手动为每个环境添加内核
+1. 依赖前提，请自行判断  
+```bash
 source activate myenv
-python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+conda install pip
+conda install ipykernel # or pip install ipykernel
 ```
-
-可以参考：[http://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments](http://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments)
-
-附录： 你应该能够安装 `nb_conda_kernels` 包装 `conda install nb_conda_kernels` 要自动添加所有环境，请参阅 [https://github.com/Anaconda-Platform/nb_conda_kernels](https://github.com/Anaconda-Platform/nb_conda_kernels)
-
-## anacoda国内镜像已经挂了
-
-清华，中科大等国内镜像已经不能使用。改用`pyenv-virtualenv`。
-
+2. 添加内核  
 ```bash
-python3 -m venv venv
-source venv/bin/activate ##Linux
-activate venv/Scripts/activate  ## windows
-
+source activate myenv
+python -m ipykernel install --user --name myenv --display-name "Python(myenv)"
 ```
+``--name``就是Jupyter会在内部中使用该环境，``--display-name``在Jupyter Notebook菜单中看到的名称
+3. 参考  
+[http://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments](http://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments)
 
-#### pip 换源
-
+### Conda换源问题
+1. 切换国内镜像源
 ```bash
-### 临时换源
-pip install tensorflow -i https://pypi.tuna.tsinghua.edu.cn/simple
-
-```
-
-```bash
-## 永久换源
-## Linux: 修改~/.pip/pip.conf
-[global]
-index-url = https://pypi.tuna.tsinghua.edu.cn/simple
-
-## window: 修改增加一个目录 C:\User\xx\pip\pip.ini
-[global]
-index-url = https://pypi.tuna.tsinghua.edu.cn/simple
-```
-
-
-
-#### anacoda换源
-
-```bash
-conda config --show ##显示源
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --show # 显示源
+# 添加清华镜像
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ 
 conda config --set show_channel_urls yes
 conda config --remove channels https://pypi.doubanio.com/simple/ ## option
 ```
-
-#### anacoda换回默认源
-
+2. 切换到默认源
 ```bash
 conda config --remove-key channels
 ```
+
+### Anaconda国内镜像挂掉
+清华，中科大的镜像之前因为Anaconda协议不可用。改用``pyenv-virtualenv``
+```bash
+python -m venv venv
+source venv/bin/activate # Linux
+activate venv/Scripts/activate # windows
+```
+
+---
 
