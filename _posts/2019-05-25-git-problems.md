@@ -48,7 +48,8 @@ git config --global user.email "your email"
 - **git rm**: 删除
 
 ## 远程仓库
-- **git remote add origin ...**: 添加远程仓库
+- **git remote add origin ...** : 添加远程仓库
+- **git remote rm origin** : 删除远程仓库
 - **git push**: 推送
 - **git clone**: clone 仓库
 
