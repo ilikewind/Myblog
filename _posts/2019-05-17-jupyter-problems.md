@@ -86,7 +86,7 @@ activate venv/Scripts/activate # windows
 1. 新建环境``conda create -n torch python=3.6``
 2. [官网](https://pytorch.org/get-started/locally/)查看安装命令，例如``conda install pytorch-cpu torchvision-cpu -c pytorch``其中-c pytorch代表了在pytorch源上下载安装；
 3. [清华源](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)查看添加第三方（Pytorch）源的命令，例如``conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/``
-4. 在新建的环境终端输入``conda install pytorch-cpu torchvision-cpu``,相比于第二步把官方源去掉了（//还用说吗//）
+4. 在新建的环境终端输入``conda install pytorch-cpu torchvision-cpu``,相比于第二步把官方源去掉了（//还用说吗，因为目前默认清华镜像，如果在特意指出要用pytorch官方源。。。//）
 5. 下载完成；新建环境终端测试
 
 **参考:**
@@ -95,7 +95,7 @@ activate venv/Scripts/activate # windows
 - [https://blog.csdn.net/yuanzhoulvpi/article/details/86742729](https://blog.csdn.net/yuanzhoulvpi/article/details/86742729)
 
 ### Conda 安装Keras, Tensorflow
-在安装Keras之前，首先需要确保安装了以下三个后端引擎：TensorFlow, Theano, CNTK;
+在安装Keras之前，首先需要确保安装了以下三个后端引擎之一：**TensorFlow**, Theano, CNTK;
 - [TensorFlow installation instrctions](https://www.tensorflow.org/install/)
 - [Theano installation instruction](http://deeplearning.net/software/theano/install.html#install)
 - [CNTK installation instructions](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-cntk-on-your-machine)
@@ -105,7 +105,7 @@ activate venv/Scripts/activate # windows
 # method A
 conda create -n keras python=3.6
 source activate keras
-conda install tensorflow # or tensorflow-gpu
+conda install tensorflow-gpu #gpu版，cpu版是tensorflow
 
 # method B
 # conda create -n keras python=3.6 tensorflow
@@ -135,7 +135,12 @@ conda install tensorflow-gpu
 conda install keras-gpu
 ```
 
-总结：出现这个问题之后，除了上述解决方法，我们还可以更新gpu显卡驱动程序版本和cuda相匹配；最后==警告我们应当1. 先查看显卡驱动程序版本，2. 然后再装cudatoolkit，cudnn, 3. 最后装tensorflow-gpu, keras-gpu等。==
+总结：出现这个问题之后，除了上述解决方法，我们还可以更新gpu显卡驱动程序版本和cuda相匹配；
+**最后警告我们应当1. 先查看显卡驱动程序版本，2. 然后再装cudatoolkit，cudnn, 3. 最后装tensorflow-gpu, keras-gpu等。**
+
+**参考：**
+- [英伟达官网](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)
+
 
 ---
 
