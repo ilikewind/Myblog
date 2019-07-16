@@ -112,6 +112,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
+      title: "DUT MEDIA LAB ",
+      href: "http://dutmedia.org/"
+    },
+    {
       title: "骨代谢研究室",
       href: "http://qianslab.com"
     },
