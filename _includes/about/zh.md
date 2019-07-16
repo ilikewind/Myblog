@@ -34,7 +34,7 @@
             </ul>
             <h3>联系</h3>
             <strong>Email:</strong> wangwei0206 at foxmail dot com <br>
-			<strong>QQ:</strong> ```echo MjgwNDU4NjY2Cg== | base64 --decode``` <br>
+			<strong>QQ:</strong> ``echo MjgwNDU4NjY2Cg== | base64 --decode`` <br>
     	</div>
 	</div>
 </body>
