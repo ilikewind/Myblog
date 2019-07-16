@@ -33,7 +33,8 @@
 				<li><p>One paper is accepted to Academic Journal of Second Military Medical University in 2018.</p></li>
 			</ul>
 			<h3>Contact</h3>
-			<strong>Email</strong>: wangwei0206 at mail.nwpu.edu.cn<br>
+			<strong>Email:</strong> wangwei0206 at foxmail dot com <br>
+			<strong>QQ:</strong> ```echo MjgwNDU4NjY2Cg== | base64 --decode``` <br>
 		</div>
 	</div>
 </body>

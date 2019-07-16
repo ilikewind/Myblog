@@ -33,7 +33,8 @@
             <li><p>2018年8月，一篇论文被第二军医大学学报录用。</p></li>
             </ul>
             <h3>联系</h3>
-            <strong>Email</strong>: wangwei0206 at mail.nwpu.edu.cn<br>
+            <strong>Email:</strong> wangwei0206 at foxmail dot com <br>
+			<strong>QQ:</strong> ```echo MjgwNDU4NjY2Cg== | base64 --decode``` <br>
     	</div>
 	</div>
 </body>
