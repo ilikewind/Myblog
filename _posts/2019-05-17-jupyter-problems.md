@@ -32,6 +32,7 @@ Anaconda命令大全<!--break-->
 ## 管理包
 - **conda search --full-name \<package_full_name\>**:精确查找包
 - **conda search \<text\>**: 模糊查找
+- **conda install --yes --file requirements.txt**：安装文件中指定所有包
 - **conda list**: 获取当前环境中已安装的包信息
 - **conda install --name \<env_name\> \<package_name\>**: 在指定环境中安装包
 - **conda install \<package_name\>**: 在当前环境中安装包
