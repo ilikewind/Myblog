@@ -2,8 +2,9 @@
 layout: post
 title: "巧用torch.backends.cudnn.benchmark减少训练时间"
 subtitle: ""
-author: "xiaopl"
-header-style:text
+catalog: true
+author: "WangW"
+header-style: text
 tags:
     - pytorch
 ---
