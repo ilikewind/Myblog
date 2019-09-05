@@ -29,6 +29,7 @@
 			<p>I am interested in <strong>Computer Vision</strong> and <strong>Machine Learning</strong>. Specifically on the topics of <strong>Self-Supervised Learning</strong>, <strong>Fine-grained image categorization</strong> and <strong>Semi-Supervised Learning</strong>.</p>
 			<h3>News</h3>
 			<ul>
+				<li><p>One paper is accepted to Life Sciences in 2019</p></li>
 				<li><p>One paper is accepted to BMJ Open in 2019</p></li>
 				<li><p>One paper is accepted to Academic Journal of Second Military Medical University in 2018.</p></li>
 			</ul>

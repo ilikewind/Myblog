@@ -29,6 +29,7 @@
             <p>我对<strong>计算机视觉</strong>和<strong>机器学习</strong>领域十分感兴趣，特别是<strong>半监督学习</strong>、<strong>细粒度图像分类</strong>和<strong>主动学习</strong>。 </p>
             <h3>新闻</h3>
             <ul>
+            <li><p>2019年8月，一篇论文被 Life Sciences 录用。</p></li>
             <li><p>2019年4月，一篇论文被 BMJ Open 录用。</p></li>
             <li><p>2018年8月，一篇论文被第二军医大学学报录用。</p></li>
             </ul>
