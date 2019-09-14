@@ -13,7 +13,7 @@
 				</div>
 				<div class="col-sm-7">
                     <p>王威 - 西北工业大学硕士生 <a href="https://github.com/ilikewind" target="_blank">[Github]</a> <a href="https://scholar.google.com/citations?user=IkRbl14AAAAJ&hl=zh-CN" target="_blank">[Google Scholar]</a></p>
-                    <p>我目前在西北工业大学生命学院攻读硕士，为生物工程二年级学生。师从<a href="http://qianslab.com" target="_blank">BONE METAVOLISM LAB</a>的<a href="http://teacher.nwpu.edu.cn/2006000141" target="_blank">骞爱荣</a>教授。在这之前，我毕业与河南科技大学机械电子工程专业。我硕士期间的课题为人工智能在病理领域的应用。在课余时间，我比较喜欢钻研web前端开发、打篮球和写<a href="https://likewind.top" target="_blank">BLOG</a>。</p>
+                    <p>我目前在西北工业大学生命学院攻读硕士，为生物工程三年级学生。师从<a href="http://qianslab.com" target="_blank">BONE METAVOLISM LAB</a>的<a href="http://teacher.nwpu.edu.cn/2006000141" target="_blank">骞爱荣</a>教授。在这之前，我毕业与河南科技大学机械电子工程专业。我硕士期间的课题为人工智能在病理领域的应用。在课余时间，我比较喜欢钻研web前端开发、打篮球和写<a href="https://likewind.top" target="_blank">BLOG</a>。</p>
                     <!--
                     <p>I have also worked with: </p>
                     <ul>
@@ -26,7 +26,7 @@
 				</div>
     		</div>
             <h3>感兴趣领域</h3>
-            <p>我对<strong>计算机视觉</strong>和<strong>机器学习</strong>领域十分感兴趣，特别是<strong>半监督学习</strong>、<strong>细粒度图像分类</strong>和<strong>主动学习</strong>。 </p>
+            <p>我对<strong>数据挖掘</strong>和<strong>机器学习</strong>领域十分感兴趣，特别是<strong>计算机视觉</strong>、<strong>元学习</strong>和<strong>生物信息学</strong>。 </p>
             <h3>新闻</h3>
             <ul>
             <li><p>2019年8月，一篇论文被 Life Sciences 录用。</p></li>

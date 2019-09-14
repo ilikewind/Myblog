@@ -19,7 +19,7 @@
 						<p>Zhang Wenjuan#, Xue Kaiyue#, Gao Yongguang#, Huai Ying, <strong>Wang Wei</strong>, Miao Zhiping, et al.<br> 
 						<i>Systems pharmacology dissection of action mechanisms of Dipsaci Radix for osteoporosis[J] </i> <br> Life Sciences, 2019: 116820.<br>
 						(# indicates equal contributions.) <br>
-						<a href="https://www.sciencedirect.com/science/article/abs/pii/S0024320519307477" target="_blank">[PDF]</a> <a href="/publication/bibs/zhang2019systems.bib.html" target="_blank">[BibTex]</a> </a></p>
+						<a href="https://www.sciencedirect.com/science/article/abs/pii/S0024320519307477" target="_blank">[PDF]</a> <a href="/publication/bibs/zhang2019systems.bib.html" target="_blank">[BibTex] </a></p>
 					</div>
 				</div>
 

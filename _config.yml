@@ -112,6 +112,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
+      title: "西工大数据挖掘与生物信息实验室",
+      hrep: "http://www.nwpu-bioinformatics.com/"
+    }
+    {
       title: "DUT MEDIA LAB ",
       href: "http://dutmedia.org/"
     },

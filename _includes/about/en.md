@@ -13,7 +13,7 @@
 				</div>
 				<div class="col-sm-7">
 					<p>Wei Wang - Master student, NPU <a href="https://github.com/ilikewind" target="_blank">[Github]</a> <a href="https://scholar.google.com/citations?user=IkRbl14AAAAJ&hl=zh-CN" target="_blank">[Google Scholar]</a></p>
-					<p>I am a second-year M.S. student at the College of Life Sciences at Northwestren Polytechnical University, advisised by Prof.<a href="http://teacher.nwpu.edu.cn/2006000141">Qianair</a>. Previously, I graduated with a B.S. degree in Mechanical electronics. The research subject of my master degree is the application of artificial intelligence in the field of pathology. In my spare time, I prefer to delve into web front-end development, play basketball and write <a href="https://likewind.top">Blogs</a>.</p>
+					<p>I am a third-year M.S. student at the College of Life Sciences at Northwestren Polytechnical University, advisised by Prof.<a href="http://teacher.nwpu.edu.cn/2006000141">Qianair</a>. Previously, I graduated with a B.S. degree in Mechanical electronics. The research subject of my master degree is the application of artificial intelligence in the field of pathology. In my spare time, I prefer to delve into web front-end development, play basketball and write <a href="https://likewind.top">Blogs</a>.</p>
 					<!--
 					<p>I have also worked with: </p>
 					<ul>
@@ -26,7 +26,7 @@
 				</div>
 			</div>
 			<h3>Research Topics</h3>
-			<p>I am interested in <strong>Computer Vision</strong> and <strong>Machine Learning</strong>. Specifically on the topics of <strong>Self-Supervised Learning</strong>, <strong>Fine-grained image categorization</strong> and <strong>Semi-Supervised Learning</strong>.</p>
+			<p>I am interested in <strong>Data Mining</strong> and <strong>Machine Learning</strong>. Specifically on the topics of <strong>Computer Vision</strong>, <strong>Meta-Learning</strong> and <strong>Bioinformatics</strong>.</p>
 			<h3>News</h3>
 			<ul>
 				<li><p>One paper is accepted to Life Sciences in 2019</p></li>
