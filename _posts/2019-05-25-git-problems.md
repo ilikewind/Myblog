@@ -78,3 +78,32 @@ git config --global user.email "your email"
 
 
 
+## git问题区
+### git 下载网速慢
+#### 方法一
+更改C:\Windows\System32\drivers\etc\hosts文件，在文件中追加219.76.4.4 github-cloud.s3.amazonaws.com, 将域名指向该IP即可
+#### 方法二
+1. 获取github的Ip地址  
+    访问：[https://www.ipaddress.com/ ](https://www.ipaddress.com/ )，以此获取``github.com``,``github.global.ssl.fastly.net``, ``codeload.github.com``的IP；
+```bash
+140.82.113.4 github.com
+151.101.185.194 github.global.ssl.fastly.net
+140.82.114.9 codeload.github.com
+```
+2. 修改系统hosts文件
+```bash
+# window hosts路径 C:\Windows\System32\drivers\etc\hosts
+# 将上面结果添加到文件中
+ipconfig /flushdns
+
+# Linux
+sudo vim /etc/hosts
+# 将上面结果添加到文件中
+sudo /etc.init.d/networking restart
+```
+
+### git指令创建github仓库
+```bash
+curl -u 'user_name' https://api.github.com/user/repos -d '{"name":"repo_name"}'
+```
+
