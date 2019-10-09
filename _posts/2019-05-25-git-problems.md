@@ -6,8 +6,7 @@ catalog: true
 author: "WangW"
 header-style: text
 tags: 
-    - git
-    - 工具
+    - Git
 ---
 
 git是目前世界上最先进的分布式版本控制系统，这篇文章主要记录经常用到的有关git的操作。<!--break-->

@@ -6,8 +6,8 @@ catalog: true
 author: "WangW"
 header-style: text
 tags: 
-    - 机器学习
-    - 统计学习
+    - Machine Learning
+    - Statistical Learning
 ---
 本文主要参考：《统计学习方法》-- 李航
 

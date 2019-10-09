@@ -6,7 +6,7 @@ catalog: false
 author: "WangW"
 header-style: text
 tags: 
-    - web
+    - Web
 ---
 
 CSS的本质可以分为宏观与微观两方面。 宏观上它的存在就是为了控制页面的显示样式。包括布局，颜色，字体等。微观上则是实现这种控制功能的各种属性的定义和工作原理。

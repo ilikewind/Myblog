@@ -6,9 +6,9 @@ catalog: true
 author: "WangW"
 header-style: text
 tags: 
-    - python
-    - jupyter notebook
-    - conda
+    - Python
+    - Jupyter Notebook
+    - Conda
 ---
 
 Anaconda命令大全<!--break-->

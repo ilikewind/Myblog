@@ -7,7 +7,7 @@ author: "WangW"
 header-style: text
 tags: 
 
-    - liunx
+    - Linux
 ---
 
 

@@ -39,6 +39,22 @@ openslide版本问题，在openslide=\=3.4.1中更新了这个问题，所以要
 
 **安装openslide==3.4.1:**
 
+**方法一：**
+
+#### 更新：
+
+在之后的安装过程中，我发现最新版的openslide已经放到了ubuntu的软件源，所以安装更加简单，仅需要：
+
+```bash
+sudo apt-get install openslide-tools
+sudo apt-get install python-openslide
+pip install openslide-python
+```
+
+
+
+**方法二：**
+
 1. 首先进入[openslide官网](https://openslide.org/download/) 下载源文件
 
 2. 解压文件，编译
@@ -56,6 +72,8 @@ openslide版本问题，在openslide=\=3.4.1中更新了这个问题，所以要
 **查看安装是否完成：**`openslide-show-properties --version`看一下版本
 
 **安装openslide-python:**`pip install openslide-python`
+
+
 
 ### 后记
 

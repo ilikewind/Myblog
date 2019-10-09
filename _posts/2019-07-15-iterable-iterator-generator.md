@@ -6,9 +6,7 @@ catalog: true
 author: "WangW"
 header-style: text
 tags: 
-    - python
-    - iterable
-    - generator
+    - Python
 ---
 
 

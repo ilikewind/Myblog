@@ -5,7 +5,8 @@ catalog: true
 subtitle: Using urllib, beautifulsoup4
 author: "WangW"
 header-style: text
-tags: 爬虫
+tags: 
+    - 爬虫
 ---
 
 -----

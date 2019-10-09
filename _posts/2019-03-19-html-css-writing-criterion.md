@@ -6,7 +6,7 @@ catalog: ture
 author: "转载"
 header-style: text
 tags: 
-    - web
+    - Web
 ---
 
 ## CSS书写顺序

@@ -6,7 +6,7 @@ catalog: true
 author: "WangW"
 header-style: text
 tags: 
-    - pytorch
+    - PyTorch
 ---
 
 

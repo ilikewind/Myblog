@@ -6,7 +6,7 @@ catalog: true
 author: "WangW"
 header-style: text
 tags:
-    - 论文
+    - 杂谈
 ---
 
 **本文主要讲了理工类论文如何找、读、理解**  

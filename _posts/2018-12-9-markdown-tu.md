@@ -5,7 +5,8 @@ subtitle: ''
 catalog: true
 author: "WangW"
 header-style: text
-tags: Markdown
+tags: 
+    - Markdown
 ---
 
 -------
