@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Liunx初始环境配置"
+title: "Linux初始环境配置"
 subtitle: ""
 catalog: true
 author: "WangW"

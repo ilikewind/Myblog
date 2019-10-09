@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Liunx中的一些问题总结"
+title: "Linux中的一些问题总结"
 subtitle: ""
 catalog: true
 author: "WangW"

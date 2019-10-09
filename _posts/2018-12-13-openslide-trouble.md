@@ -6,8 +6,8 @@ catalog: true
 author: "Wangw"
 header-style: text
 tags: 
-    - openslide
-    - ubuntu
+    - Openslide
+    - Linux
 ---
 
 **首发在**[WangW Blog](https://likewind.top) 
