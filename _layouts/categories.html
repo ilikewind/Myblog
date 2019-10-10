@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    <p class="taxonomy-list">
+    {% for category in site.categories -%}
+        <code class="taxonomy-item" data-index="category-{{ forloop.index }}">{{ category.first }}</code>{% unless forloop.last %}<small>｜</small>{% endunless %}
+    {%- endfor %}
+    </p>
+
+    <div class="taxonomy-blocks"></div>
+
+    {% comment %}
+    {% for category in site.categories %}
+      {% assign category.first = category.first | url_encode %}
+      <ul class="taxonomy-block" data-index="category-{{ forloop.index }}">
+      {% for post in site.categories[category.first] %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+    {% endfor %}
+    {% endcomment %}
+  </div>
+
+  <script>
+    var tags = {
+      {%- for category in site.categories -%}
+        {%- assign category.first = category.first | url_encode -%}
+        "{{ category.first }}" : {
+          {%- for post in site.categories[category.first] -%}
+            "{{ post.title }}": "{{ post.url }}",
+          {%- endfor -%}
+        }{%- unless forloop.last -%},{%- endunless -%}
+      {%- endfor -%}
+    }
+  </script>
+
+</article>

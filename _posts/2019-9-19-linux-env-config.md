@@ -5,6 +5,8 @@ subtitle: ""
 catalog: true
 author: "WangW"
 header-style: text
+categories:
+    - Linux
 tags: 
 
     - Linux
