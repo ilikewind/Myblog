@@ -1,4 +1,3 @@
-
 ---
 layout: categories
 title: "Categories"
@@ -8,5 +7,7 @@ multilingual: true
 permalink: /categories/
 weight: 2
 ---
+
+
 {% include intro-header.html type='page' short=true %}
 
