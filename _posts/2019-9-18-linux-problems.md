@@ -90,3 +90,21 @@ sudo apt install nvidia-381
 
 参考：[如何在Linux上安装最新的NVIDIA驱动](https://10.linuxstory.net/how-to-install-latest-nvidia-drivers-in-linux/)
 
+### SSH内网穿透
+我是采用了花生壳这个软件，一个月1GB免费流量，够用；
+具体步骤如下：
+1. 下载花生壳客户端并安装，下载[链接](https://hsk.oray.com/download/)
+2. 安装phddns.deb软件，请启用，其中具体包含以下参数``phddns``查看参数
+3. ``phddns start``服务端开启该软件，你将会看到一个SN码和remote网站，记住SN码并登录该账号
+4. 添加映射。
+5. SSH登录。注意端口问题。
+
+![](https://raw.githubusercontent.com/learnroad/image_host/master/2019/20190919232235.png)
+
+![](https://raw.githubusercontent.com/learnroad/image_host/master/2019/20190919232313.png)
+
+![](https://raw.githubusercontent.com/learnroad/image_host/master/2019/20190919232352.png)
+
+### 源码安装卸载以及软件安装文件夹选项
+- [Linux软件编译安装和相关目录介绍](https://www.jianshu.com/p/a71fbf51c4ff)
+
