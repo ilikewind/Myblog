@@ -108,3 +108,33 @@ sudo apt install nvidia-381
 ### 源码安装卸载以及软件安装文件夹选项
 - [Linux软件编译安装和相关目录介绍](https://www.jianshu.com/p/a71fbf51c4ff)
 
+### 给普通用户添加sudo权限
+#### 方法一
+```bash
+# 查看可以用sudo命令的群组和用户，发现了sudo群组
+sudo vim /etc/sudoers
+
+# 查看群组
+sudo vim /etc/group
+
+# 将普通用户添加到sudo群组中
+sudo gpasswd -a hateyou sudo
+```
+
+### 方法二
+既然可以打开``/etc/sudoers``文件，发现其中包含可以使用的群组，那么我们也可以直接添加用户或者群组到该文件中，使得可以使用sudo权限.
+**这个是更加个性化**，比如你想让某个普通用户仅仅可以使用/etc/init.d/nagios脚本重启的权限，这样的话用该方法比较方便。
+
+### 附加
+最常用的配置：
+用户 登录的主机=（可以变换的身份） 可以执行的命令
+比如：
+root ALL=(ALL) ALL
+root用户可以在任意主机上切换到任意用户，执行任意命令。
+
+ossadm ALL=(dbuser) NOPASSWORD:ALL
+ossadm用户可以在任意主机上，切换到dbuser用户，执行任意命令，并且不用输入密码。
+默认是需要输入当前已登陆的用户的密码的。也就是说，这条命令，如果没有NOPASSWORD这个关键字，ossadm切换到dbuser是需要输入ossadm用户本身的密码的。
+
+ossuser ALL=(root) NOPASSWORD:/opt/sudobin2/pkgscript.sh
+ossuser可以在任意主机上，切换为root用户，执行/opt/sudobin2/pkgscript.sh命令，并且不用输入密码。
