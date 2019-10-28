@@ -6,6 +6,7 @@
 <body>
 	<div class="my-container">
 		<div class="content">
+		<h3>一、论文(#:为共同作者):</h3>
 			<div class="container">
 
 				<!-- The 3nd paper -->
@@ -61,6 +62,26 @@
                         <a href="http://www.ajsmmu.cn/ajsmmu/ch/reader/create_pdf.aspx?file_no=20180460&year_id=2018&quarter_id=8&falg=1" target="_blank">[pdf]</a> <a href="/publication/bibs/wangwei2018deeplearning.html" target="_blank">[BibTex]</a></p>
 					</div>
 				</div>
+			</div>
+		</div>
+		<div class="content">
+		<h3>二、专利:</h3>
+			<div class="container">
+
+				<!-- The 1nd patent -->
+				<div class="row">
+					<div class="media col-md-3">
+						<figure class="pull-left">
+							<img class="media-object img-rounded img-responsive"  src="/publication/img/2019/patent1.png" >
+						</figure>
+					</div>
+					<div class="col-md-6">
+						<p> 骞爱荣，田野，李郁，<strong>王威</strong>，张文娟，于观贞，罗晓庆，赵欣.<br> 
+						<i>一种病理诊断方法及装置 </i> <br>201910513920.6<br>
+						<a href="/publication/img/2019/2019105139206.pdf" target="_blank">[PDF]</a> </p>
+					</div>
+				</div>
+
 			</div>
 		</div>
 	</div>
