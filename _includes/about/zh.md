@@ -13,7 +13,9 @@
 				</div>
 				<div class="col-sm-7">
                     <p>王威 - 西北工业大学硕士生 <a href="https://github.com/ilikewind" target="_blank">[Github]</a> <a href="https://scholar.google.com/citations?user=IkRbl14AAAAJ&hl=zh-CN" target="_blank">[Google Scholar]</a></p>
-                    <p>我目前在西北工业大学生命学院攻读硕士，为生物工程三年级学生。师从<a href="http://qianslab.com" target="_blank">BONE METAVOLISM LAB</a>的<a href="http://teacher.nwpu.edu.cn/2006000141" target="_blank">骞爱荣</a>教授。在这之前，我毕业与河南科技大学机械电子工程专业。我硕士期间的课题为人工智能在病理领域的应用。在课余时间，我比较喜欢钻研web前端开发、打篮球和写<a href="https://likewind.top" target="_blank">BLOG</a>。</p>
+                    <p>Wei Wang is a First-year Ph.D. student in school of Computer Science, Northwestern Polytechnical University. He is supervised by Dr.<a href="http://teacher.nwpu.edu.cn/peng.html" target="_blank">Jiajie Peng</a>. Currently, he is interested in Data mining, Machine learning, Medical image analysis and bioinfomatics, especially Deep learning for network biology and Whole slide imgage analysis. 
+					
+					He is a growing web development engineer and a growing data scientist, and welcomes your advice. He life motto is: keep hungry, keep foolish.</p>
                     <!--
                     <p>I have also worked with: </p>
                     <ul>

@@ -13,7 +13,9 @@
 				</div>
 				<div class="col-sm-7">
 					<p>Wei Wang - Master student, NPU <a href="https://github.com/ilikewind" target="_blank">[Github]</a> <a href="https://scholar.google.com/citations?user=IkRbl14AAAAJ&hl=zh-CN" target="_blank">[Google Scholar]</a></p>
-					<p>I am a third-year M.S. student at the College of Life Sciences at Northwestren Polytechnical University, advisised by Prof.<a href="http://teacher.nwpu.edu.cn/2006000141">Qianair</a>. Previously, I graduated with a B.S. degree in Mechanical electronics. The research subject of my master degree is the application of artificial intelligence in the field of pathology. In my spare time, I prefer to delve into web front-end development, play basketball and write <a href="https://likewind.top">Blogs</a>.</p>
+					<p>Wei Wang is a First-year Ph.D. student in school of Computer Science, Northwestern Polytechnical University. He is supervised by Dr.<a href="http://teacher.nwpu.edu.cn/peng.html" target="_blank">Jiajie Peng</a>. Currently, he is interested in Data mining, Machine learning, Medical image analysis and bioinfomatics, especially Deep learning for network biology and Whole slide imgage analysis. 
+					
+					He is a growing web development engineer and a growing data scientist, and welcomes your advice. He life motto is: keep hungry, keep foolish.</p>
 					<!--
 					<p>I have also worked with: </p>
 					<ul>
