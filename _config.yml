@@ -184,4 +184,8 @@ friends: [
       title: "红色石头",
       href: "http://redstonewill.com/"
     },
+    {
+      title: "Jekyll文档",
+      href: "https://blog.webjeda.com/tags/#Jekyll"
+    },
 ]
