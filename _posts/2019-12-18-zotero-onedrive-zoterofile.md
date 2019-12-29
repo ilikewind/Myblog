@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "利用fMRI数据生成功能矩阵图谱--流程图记录"
+title: "Zotero - 简单配置使用"
 subtitle: ""
 catalog: true
 author: "WangW"
 head-style: text
 tags:
-    - fMRI
-    - Brain network
+    - Zotero
+    - OneDrive
 ---
 
 文献管理全部迁移到来了Zotero上，采用了Zotero + Onedrive + ZotFile
