@@ -3,8 +3,8 @@ title: WangW
 SEOTitle: 王威 | WangW
 header-img: img/home-bg.jpg
 email: wangwei0206 at mail.nwpu.edu.cn
-description: "关于机器学习, 深度学习 | 王威，master student, 在读硕士 | 这里是 @ilikewind 的个人博客，与你一起。"
-keyword: "王威, WangW王威, WangW, ilikewind, likewind, 王威的博客, WangW Blog, 博客, 个人网站, ML, Deep Learning, DL, Math"
+description: "随手笔记"
+keyword: "王个人网站, ML, Deep Learning, DL, Math"
 url: "https://likewind.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -89,7 +89,7 @@ ba_track_id: 4f9e5a8b624f9b335919292b2ac7e2db
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For man is man and master of his fate<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-ww-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
