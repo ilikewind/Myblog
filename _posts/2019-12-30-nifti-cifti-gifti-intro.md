@@ -11,6 +11,11 @@ tags:
     - Gifti
 ---
 
+Update: 下载[Connectome Workbench](https://www.humanconnectome.org/software/get-connectome-workbench),使用 `wb_command -file-information <filepath>` 来看以下文件的简单信息.
+或者直接使用`txt软件`打开文档
+
+--- 
+
 - [nifti官方介绍](https://www.nitrc.org/projects/nifti/), 在`document`可以找到该文件format文档. 
 - [cifti官方介绍](https://www.nitrc.org/projects/cifti/), 
 - [gifti官方介绍](https://www.nitrc.org/projects/gifti/), gifti是nifti的一部分.
