@@ -86,7 +86,9 @@ select 列1, 列2 from <table_name>;  -- 查询列1, 列2
 ```
 
 ### 增加基本使用
-> 格式:INSERT [INTO] tb_name [(col_name,...)] {VALUES | VALUE} ({expr | DEFAULT},...),(...),...
+```
+格式:INSERT [INTO] tb_name [(col_name,...)] {VALUES | VALUE} ({expr | DEFAULT},...),(...),...
+```
 
 ```sql
 -- 说明：主键列是自动增长，但是在全列插入时需要占位，通常使用0或者 default 或者 null 来占位，插入成功后以实际数据为准
@@ -105,14 +107,19 @@ insert into 表名(列1,...) values(值1,...),(值1,...)...;  -- 部分列多行
 ```
 
 ### 修改基本使用
-> 格式: UPDATE tbname SET col1={expr1|DEFAULT} [,col2={expr2|default}]...[where 条件判断]
+```
+格式: UPDATE tbname SET col1={expr1|DEFAULT} [,col2={expr2|default}]...[where 条件判断]
+```
 
 ```sql
 update 表名 set 列1=值1,列2=值2... where 条件  -- 修改
 ```
 
 ### 删除基本使用
-> DELETE FROM tbname [where 条件判断]
+```
+DELETE FROM tbname [where 条件判断]
+```
+
 ```sql
 delete from 表名 where 条件
 
