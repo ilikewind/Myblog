@@ -1,10 +1,10 @@
 # Site settings
-title: WangW
-SEOTitle: 王威 | WangW
+title: 毒战士
+SEOTitle: 毒战士 | Zhanshi Du
 header-img: img/home-bg.jpg
-email: wangwei0206 at mail.nwpu.edu.cn
+email: 1551922774@qq.com
 description: "随手笔记"
-keyword: "王个人网站, ML, Deep Learning, DL, Math"
+keyword: "ML, Deep Learning, DL, Math"
 url: "https://likewind.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: true
-weibo_username:     1ilewind
-#zhihu_username:     xiang-feng-yiyang-666
-github_username:    ilikewind
+# weibo_username:     1ilewind
+# zhihu_username:     xiang-feng-yiyang-666
+# github_username:    ilikewind
 twitter_username:   likewind # 爱情纪念日
 #facebook_username:  1ikewind
 #linkedin_username:  firstname-lastname-idxxxx
@@ -127,14 +127,6 @@ friends: [
     {
       title: "西工大数据挖掘与生物信息实验室",
       href: "http://www.nwpu-bioinformatics.com/"
-    },
-    {
-      title: "Wei Wang",
-      href: "https://imwangtongxue.com"
-    },
-    {
-      title: "骨代谢研究室",
-      href: "http://qianslab.com"
     },
     {
       title: "LAMDA(周志华)",
