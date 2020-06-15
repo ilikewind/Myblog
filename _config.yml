@@ -129,9 +129,13 @@ friends: [
       href: "http://www.nwpu-bioinformatics.com/"
     },
     {
+      title: "清华合成与系统生物学中心",
+      href: "http://bioinfo.au.tsinghua.edu.cn/CSSB/web/index.html"
+    },
+    {
       title: "高跃实验室",
       href: "http://www.gaoyue.org/"
-    }
+    },
     {
       title: "LAMDA(周志华)",
       href: "http://lamda.nju.edu.cn/CH.MainPage.ashx?AspxAutoDetectCookieSupport=1"
