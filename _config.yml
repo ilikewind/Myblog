@@ -141,6 +141,10 @@ friends: [
       href: "http://lamda.nju.edu.cn/CH.MainPage.ashx?AspxAutoDetectCookieSupport=1"
     },
     {
+      title: "Regina",
+      href: "https://people.csail.mit.edu/regina/"
+    },
+    {
       title: "微软研究院",
       href: "https://www.msra.cn/zh-cn/connections"
     },
