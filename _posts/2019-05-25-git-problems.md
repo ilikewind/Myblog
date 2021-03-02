@@ -90,11 +90,11 @@ git config --global user.email "your email"
 140.82.114.9 codeload.github.com
 ```
 2. 修改系统hosts文件
+
 ```bash
 # window hosts路径 C:\Windows\System32\drivers\etc\hosts
 # 将上面结果添加到文件中
 ipconfig /flushdns
-
 # Linux
 sudo vim /etc/hosts
 # 将上面结果添加到文件中
